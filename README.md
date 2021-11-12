@@ -23,18 +23,16 @@
 
 <br>
 
-### Desktop
-
 <p align="center">
     <img alt="Sistema de Upload e Download com PHP e MySQL" title="Sistema de Upload e Download com PHP e MySQL" 
-    src="https://github.com/Wanderson-A-Timoteo/system-up-dow-files-with-php-mysql/blob/main/.gitbub/page-up.png?raw=true" />
+    src="https://github.com/Wanderson-A-Timoteo/system-up-dow-files-with-php-mysql/blob/main/.github/page-up.png?raw=true" />
 </p>
 
 <br>
 
 <p align="center">
     <img alt="Sistema de Upload e Download com PHP e MySQL" title="Sistema de Upload e Download com PHP e MySQL" 
-    src="https://github.com/Wanderson-A-Timoteo/system-up-dow-files-with-php-mysql/blob/main/.gitbub/page-down.png?raw=true" />
+    src="https://github.com/Wanderson-A-Timoteo/system-up-dow-files-with-php-mysql/blob/main/.github/page-down.png?raw=true" />
 </p>
 
 <br>
@@ -116,8 +114,10 @@ Feito com ♥ by
 
 ## Agradecimentos:
 
+<br>
+
 <p align="center">
-    <img width="300" height="200" alt="Café Codificado" title="Café Codificado" src="https://github.com/Wanderson-A-Timoteo/system-up-dow-files-with-php-mysql/blob/main/.gitbub/cafe-codificado.jpeg?raw=true" />
+    <img width="300" height="200" alt="Café Codificado" title="Café Codificado" src="https://github.com/Wanderson-A-Timoteo/system-up-dow-files-with-php-mysql/blob/main/.github/cafe-codificado.jpeg?raw=true" />
 </p>
 
 - Projeto desenvolvido durante a aula com [Café Codificado](https://cafecodificado.com/).
